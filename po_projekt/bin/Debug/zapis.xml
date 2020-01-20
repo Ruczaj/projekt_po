@@ -7,7 +7,8 @@
     <Skrzynia_Biegów1>manualna</Skrzynia_Biegów1>
     <Rodzaj_Nadwozia1>hatchback</Rodzaj_Nadwozia1>
     <Model1>Panda</Model1>
-    <Rezerwacja>Niezarezerwowany</Rezerwacja>
+    <Rezerwacja>Zarezerwowany</Rezerwacja>
+    <Rezerwujacy>201</Rezerwujacy>
   </samochody>
   <samochody>
     <Klasa1>klasa_B</Klasa1>

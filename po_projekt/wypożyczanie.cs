@@ -14,14 +14,29 @@ namespace po_projekt
             Console.WriteLine(s);
             o.Usuń(s);
         }
-        public samochody wybór_samochodu_do_wypożyczenia(oferta s)
+        public samochody wybór_samochodu_do_wypożyczenia(oferta s, klient K)
         {
             samochody k = new samochody();
             string wybór;
             foreach (samochody element in s.Oferta)
             {
-                Console.WriteLine("Jeżeli chcesz wypożyczyć to auto wybierz: TAK");
-                Console.WriteLine(element);
+                if (element.Rezerwacja == rezerw.Zarezerwowany)
+                {
+                    if (element.Rezerwujacy == K.Numer_klienta)
+                    {
+                        Console.WriteLine("Jeżeli chcesz wypożyczyć to auto wybierz: TAK");
+                        Console.WriteLine(element);
+                    }
+                    else
+                    {
+                        continue;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Jeżeli chcesz wypożyczyć to auto wybierz: TAK");
+                    Console.WriteLine(element);
+                }
                 wybór = Console.ReadLine();
                 if (wybór == "TAK")
                 {

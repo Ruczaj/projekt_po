@@ -22,3 +22,13 @@ C:\Users\Konstancja\Documents\po_projekt\GUI\obj\Debug\Klient_Window.baml
 C:\Users\Konstancja\Documents\po_projekt\GUI\obj\Debug\Pracownik_Window.baml
 C:\Users\Konstancja\Documents\po_projekt\GUI\obj\Debug\Klient_Menu_Window.g.cs
 C:\Users\Konstancja\Documents\po_projekt\GUI\obj\Debug\Klient_Menu_Window.baml
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\Klient_Menu_Window.g.cs
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\Klient_Window.g.cs
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\Pracownik_Window.g.cs
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\App.g.cs
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\GUI.exe
+C:\Users\potoc\Desktop\studia\C#\projekt_po-master\GUI\obj\Debug\GUI.pdb

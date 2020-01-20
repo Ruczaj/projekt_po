@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="po_projekt.akcesoria" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>akcesoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.klienci" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAACAAAAIAAAAAAAUABQAAAAQA=</HashCode>
+      <FileName>klienci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.klient" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACEAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>klient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.oferta" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEQAAAAAAAACAICAEgEQEEQAAAAAA=</HashCode>
+      <FileName>oferta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="po_projekt.osoba" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEIAAAACEAAAAAAAAAAAAEAAAAAAAAACAAAA=</HashCode>
+      <FileName>osoba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.pracownicy" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAAAAAAAEAAAAAAAAAUAAQAAAAAA=</HashCode>
+      <FileName>pracownicy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.pracownik" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAIAAAACEAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pracownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.rezerwacja" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUAAAAAACEAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>rezerwacja.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="po_projekt.samochody" Collapsed="true">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIEAAAgAAQAAQEAAACACQACAAAAAAQgAgAAIAAAAA=</HashCode>
+      <FileName>samochody.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="po_projekt.ubezpieczenia" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ubezpieczenia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.wypożyczanie" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>wypożyczanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="po_projekt.zwroty" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>zwroty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
